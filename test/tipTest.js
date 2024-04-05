@@ -9,5 +9,3 @@ describe("Check tip amount", function() {
     });  
   });  
 });
-
-// test
